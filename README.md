@@ -1,3 +1,3 @@
-# SURJ
+# Standing Up for Racial Justice (SURJ) Bay Area 
 
-Standing Up for Racial Justice New Member Resources
+Resources and information for new members
