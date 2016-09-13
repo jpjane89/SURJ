@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Background](Background.md)
+* [Background](background.md)
 * [Recent Projects](recent_projects.md)
 
