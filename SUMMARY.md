@@ -5,5 +5,5 @@
 * [Recent Projects](recent_projects.md)
 * [Definitions](definitions.md)
 * [Readings](readings.md)
-* Workshops/Trainings
+* [Workshops/Trainings](workshops_trainings.md)
 
