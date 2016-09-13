@@ -19,6 +19,8 @@
 * *Why Are All the Black Kids Sitting Together in the Cafeteria?* by Beverly Daniel Tatum
 * *Understanding White Privilege – creating pathways to authentic relationships across race* by Frances Kendell
 * *Notes From No Man’s Land, American essays* by Eula Biss
+* *Post Traumatic Slave Syndrome* by Joy DeGruy
+
 
 
 
