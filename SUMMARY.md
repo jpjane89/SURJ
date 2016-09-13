@@ -7,5 +7,5 @@
 * [Readings](readings.md)
 * [Workshops/Trainings](workshops_trainings.md)
 * [Videos](videos.md)
-* Organizations
+* [Organizations](organizations.md)
 
