@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Background](Background.md)
-* Recent Projects
+* [Recent Projects](recent_projects.md)
 
