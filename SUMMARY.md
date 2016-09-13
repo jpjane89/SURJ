@@ -6,4 +6,5 @@
 * [Definitions](definitions.md)
 * [Readings](readings.md)
 * [Workshops/Trainings](workshops_trainings.md)
+* Videos
 
