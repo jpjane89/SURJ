@@ -26,6 +26,9 @@
 * *Race Matters* by Cornel West
 * *Speaking Treason Fluently* by Tim Wise
 * *The Making of African America* by Ira Berlin
+* *The Autobiography of Malcolm X*
+* *Assata: An Autobiography*
+* 
 
 ## Articles and essays
 * *White Fragility* by Robin DiAngelo
