@@ -6,6 +6,6 @@
 * [Definitions](definitions.md)
 * [Readings](readings.md)
 * [Workshops/Trainings](workshops_trainings.md)
-* [Videos](videos.md)
+* [Videos/Films](videos.md)
 * [Organizations](organizations.md)
 
