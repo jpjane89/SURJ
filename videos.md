@@ -8,6 +8,10 @@
 * Robin DiAngelo on White Fragility, [https://www.youtube.com/watch?v=ktVaZVVgJyc](https://www.youtube.com/watch?v=ktVaZVVgJyc)
 
 
+# Films
+* *Cracking the Codes,* [http://crackingthecodes.org/](http://crackingthecodes.org/)
+* *American Denial,* [http://www.pbs.org/independentlens/films/american-denial/](http://www.pbs.org/independentlens/films/american-denial/)
+* *Mirrors of Privilege,* [http://world-trust.org/films/stream-mop/](http://world-trust.org/films/stream-mop/)
 
 
 
