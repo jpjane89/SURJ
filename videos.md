@@ -12,6 +12,8 @@
 * *Cracking the Codes,* [http://crackingthecodes.org/](http://crackingthecodes.org/)
 * *American Denial,* [http://www.pbs.org/independentlens/films/american-denial/](http://www.pbs.org/independentlens/films/american-denial/)
 * *Mirrors of Privilege,* [http://world-trust.org/films/stream-mop/](http://world-trust.org/films/stream-mop/)
+* *The House I Live In,* [http://www.pbs.org/independentlens/films/house-i-live-in/](http://www.pbs.org/independentlens/films/house-i-live-in/)
+* StirFry Seminars and Consulting's diversity training films, [http://www.diversitytrainingfilms.com/](http://www.diversitytrainingfilms.com/)
 
 
 
