@@ -9,6 +9,8 @@
 
 
 # Films
+* *Follow Me Home,* [http://www.imdb.com/title/tt0119138/](http://www.imdb.com/title/tt0119138/)
+* *White Like Me,* [www.whitelikememovie.org](www.whitelikememovie.org)
 * *Cracking the Codes,* [http://crackingthecodes.org/](http://crackingthecodes.org/)
 * *American Denial,* [http://www.pbs.org/independentlens/films/american-denial/](http://www.pbs.org/independentlens/films/american-denial/)
 * *Mirrors of Privilege,* [http://world-trust.org/films/stream-mop/](http://world-trust.org/films/stream-mop/)
