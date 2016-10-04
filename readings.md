@@ -28,6 +28,11 @@
 * *The Making of African America* by Ira Berlin
 * *The Autobiography of Malcolm X*
 * *Assata: An Autobiography*
+* *Uprooting Racism: How White People Can Work for Racial Justice* by Paul Kivel 
+* *Towards the "Other America": Anti-Racist Resources for White People Taking Action for Black Lives Matter* by 
+Chris Crass 
+* *Blackballed: The Black and White Politics of Race on America's Campuses* by Lawrence Ross
+
 
 ## Articles and essays
 * *White Fragility* by Robin DiAngelo
@@ -44,6 +49,7 @@ by Alicia Garza, [http://collectiveliberation.org/wp-content/uploads/2015/01/Gar
 * Curriculum for White Americans to Educate Themselves on Race and Racism--from Ferguson to Charleston, [http://citizenshipandsocialjustice.com/2015/07/10/curriculum-for-white-americans-to-educate-themselves-on-race-and-racism/](http://citizenshipandsocialjustice.com/2015/07/10/curriculum-for-white-americans-to-educate-themselves-on-race-and-racism/)
 * Understanding and Dismantling Racism: A Booklist for White Readers, [http://www.charisbooksandmore.com/understanding-and-dismantling-racism-booklist-white-readers](http://www.charisbooksandmore.com/understanding-and-dismantling-racism-booklist-white-readers)
 * Catalyst Project Readers, [http://collectiveliberation.org/resources/catalyst-project-workshop-readers/](http://collectiveliberation.org/resources/catalyst-project-workshop-readers/)
+* Talking to Kids About Racism and Justice: a list for parents, caregivers & educators, [https://docs.google.com/document/d/1s0lCA3FlulVhK6DFE2d3uYCipc6ApY8Gn2rMwm6fYqw/edit#heading=h.660636hiyby8](google doc)
 
 
 
